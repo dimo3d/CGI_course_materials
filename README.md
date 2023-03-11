@@ -1,3 +1,11 @@
+
+
+# Computer Graphics Course Materials
+
+Author: Dieter Morgenroth
+Description: This repository contains Jupyter notebooks for a course on computer graphics. The notebooks cover topics such as vector operations, matrix operations, transformations, 3D graphics, and more. Each notebook includes explanations of the concepts, code examples in Python using libraries such as NumPy and Matplotlib, and exercises for students to practice. The course materials are designed for students with a basic understanding of Python and mathematics. Feel free to use and modify the notebooks for your own teaching purposes.
+
+Keywords: linear algebra, computer graphics, Jupyter notebooks, Python, NumPy, Matplotlib, transformations, 3D graphics, course materials.
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
@@ -6,9 +14,8 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://dimo3d.github.io/CGI_course_materials/lab/index.html**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
 ## Requirements
 
