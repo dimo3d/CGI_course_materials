@@ -46,3 +46,4 @@ bqplot
 numpy
 matplotlib
 micropip
+pythreejs

@@ -6,6 +6,16 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
+    },
+    "federated_extensions": [
+    {
+      "name": "@jupyter-widgets/jupyterlab-manager",
+      "load": true
+    },
+    {
+      "name": "jupyter-threejs",
+      "load": true
     }
+  ]
   }
   
